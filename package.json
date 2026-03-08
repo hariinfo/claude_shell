@@ -1,0 +1,7 @@
+{
+  "name": "claude-shell",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
